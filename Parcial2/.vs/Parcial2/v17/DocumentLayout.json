@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\controllers\\prendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\controllers\\prendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\controllers\\fotoprendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\controllers\\fotoprendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\controllers\\cargafotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\controllers\\cargafotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|c:\\users\\user\\downloads\\parcial2\\parcial2\\parcial2\\clases\\clsprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\clases\\clsprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\clases\\clscargafotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\clases\\clscargafotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\clases\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\clases\\clscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\clases\\clsfotoprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\clases\\clsfotoprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\models\\fotoprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\models\\fotoprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\models\\prenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\models\\prenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\parcial2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F26C20FE-2602-480B-B551-794308F8ECA4}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Web.config",
+              "RelativeDocumentMoniker": "Parcial2\\Web.config",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Web.config",
+              "RelativeToolTip": "Parcial2\\Web.config",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T13:30:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FotoPrenda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\FotoPrenda.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Models\\FotoPrenda.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\FotoPrenda.cs",
+              "RelativeToolTip": "Parcial2\\Models\\FotoPrenda.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:00:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\Cliente.cs",
+              "RelativeToolTip": "Parcial2\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:55:46.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prenda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\Prenda.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Models\\Prenda.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Models\\Prenda.cs",
+              "RelativeToolTip": "Parcial2\\Models\\Prenda.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:54:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FotoPrendaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\FotoPrendaController.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Controllers\\FotoPrendaController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\FotoPrendaController.cs",
+              "RelativeToolTip": "Parcial2\\Controllers\\FotoPrendaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:54:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargaFotosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\CargaFotosController.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Controllers\\CargaFotosController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\CargaFotosController.cs",
+              "RelativeToolTip": "Parcial2\\Controllers\\CargaFotosController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:54:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsCargaFotos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsCargaFotos.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Clases\\clsCargaFotos.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsCargaFotos.cs",
+              "RelativeToolTip": "Parcial2\\Clases\\clsCargaFotos.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:37:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsFotoPrenda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsFotoPrenda.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Clases\\clsFotoPrenda.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsFotoPrenda.cs",
+              "RelativeToolTip": "Parcial2\\Clases\\clsFotoPrenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:30:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrendaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\PrendaController.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Controllers\\PrendaController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\PrendaController.cs",
+              "RelativeToolTip": "Parcial2\\Controllers\\PrendaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:12:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPrenda.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsPrenda.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Clases\\clsPrenda.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsPrenda.cs",
+              "RelativeToolTip": "Parcial2\\Clases\\clsPrenda.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:44:09.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Parcial2\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:31:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsCliente.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Clases\\clsCliente.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Parcial2\\Parcial2\\Parcial2\\Clases\\clsCliente.cs",
+              "RelativeToolTip": "Parcial2\\Clases\\clsCliente.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:17:17.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
